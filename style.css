@@ -1,0 +1,29 @@
+html{
+    box-sizing: border-box;
+}
+*,*::before,*::after{
+    box-sizing: inherit;
+}
+body{
+    margin: 0;
+    font-family: 'Oswald',sans-serif;
+    font-weight: 400;
+}
+.container{
+    max-width: 1100px;
+    background-color: #ddd;
+    margin: 0 auto;
+}
+:root{
+    --accent-color:var(--accent-color)
+}
+.header {
+}
+.header__title {
+}
+.Logo {
+}
+.bilets {
+}
+.h1 {
+}
